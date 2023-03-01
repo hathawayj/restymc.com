@@ -3,7 +3,7 @@ title: Rest Yoga and Mindfulness Center
 email: julia@restymc.com
 description: Rexburg's Yoga Center that focuses on the whole self.
 baseurl: "" # the subpath of your site, e.g. /blog/
-url: "" # the base hostname & protocol for your site
+url: "restymc.com" # the base hostname & protocol for your site
 
 # Build settings
 markdown: kramdown
